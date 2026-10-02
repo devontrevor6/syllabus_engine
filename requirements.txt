@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+ics
+pytesseract
+pillow
+python-dateutil
